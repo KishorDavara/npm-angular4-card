@@ -11,8 +11,6 @@ import { ShareItem } from './shared/share-item';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title = 'Angular4 UI blocks overview';
-
   cardsPromise: Promise<Card[]>;
   
   favCollection : Object = {};
