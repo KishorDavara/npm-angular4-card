@@ -7,20 +7,20 @@ import { CardsService } from './cards.service';
 
 import { AppComponent } from './app.component';
 
+// import { 
+//     CardComponent, 
+//     CardActionComponent, 
+//     CardFavComponent, 
+//     CardShareCollectionComponent, 
+//     CardShareComponent 
+// } from '../card/index'; // local 
 import { 
-    CardComponent, 
-    CardActionComponent, 
-    CardFavComponent, 
-    CardShareCollectionComponent, 
-    CardShareComponent 
-} from '../card/index'; // local 
- // npmimport { CardComponent } from 'angular4-card';
-
-// import { CardComponent } from './card/card.component';
-// import { CardActionComponent } from './card-action/card-action.component';
-// import { CardFavComponent } from './card-fav/card-fav.component';
-// import { CardShareCollectionComponent } from './card-share-collection/card-share-collection.component';
-// import { CardShareComponent } from './card-share/card-share.component';
+  CardComponent, 
+  CardActionComponent, 
+  CardFavComponent, 
+  CardShareCollectionComponent, 
+  CardShareComponent 
+} from 'angular4-card'; // npm
 
 @NgModule({
   declarations: [

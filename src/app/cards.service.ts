@@ -1,8 +1,8 @@
 import { Injectable } from '@angular/core';
 import { Headers, Http, Response } from '@angular/http';
 
-//import { Card } from './shared/card';
-import { Card } from '../card/shared/card';
+// local import { Card } from '../card/shared/card';
+import { Card } from 'angular4-card'; // npm 
 
 @Injectable()
 export class CardsService {
@@ -25,6 +25,4 @@ export class CardsService {
     console.error('An error occurred', error);
     return Promise.reject(error.message || error);
   }
-
-
 }

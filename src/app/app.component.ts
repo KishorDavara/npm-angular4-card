@@ -3,7 +3,10 @@ import { Component, Output, EventEmitter, OnInit } from '@angular/core';
 import { CardsService } from './cards.service';
 
 import { Card } from '../card/shared/card';
-import { ShareItem } from '../card/shared/share-item';
+
+ // local import { ShareItem } from '../card/shared/share-item';
+import { ShareItem } from 'angular4-card'; // npm 
+
 
 
 @Component({
