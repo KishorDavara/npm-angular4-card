@@ -1,7 +1,8 @@
 import { Injectable } from '@angular/core';
 import { Headers, Http, Response } from '@angular/http';
 
-import { Card } from './shared/card';
+//import { Card } from './shared/card';
+import { Card } from '../card/shared/card';
 
 @Injectable()
 export class CardsService {
