@@ -1,6 +1,6 @@
 # Angular4 card
 
-**WARNING: TO BE TESTED**, see [npm package](https://www.npmjs.com/package/angular4-card), from [npm repo](https://www.npmjs.com/~vpcom).
+**WARNING: Not finalized**, see [npm package](https://www.npmjs.com/package/angular4-card), from [npm repo](https://www.npmjs.com/~vpcom).
 
 ## tldr
 

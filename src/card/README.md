@@ -1,7 +1,8 @@
-# Angular4 Yeah
+# Angular4 card
 
-The component just prints `Yeah!`.
+**WARNING: Not finalized**
 
-It demonstrates the most simple npm component for an Angular4 application. But not only, it goes along a [Github project](https://github.com/vpcom/npm-angular4-yeah) built simply with Angular-CLI that contains the project for npm and the standard project to test it.
+[Github project](https://github.com/vpcom/npm-angular4-card/)
+
 
 **[vincentperrin.com](http://vincentperrin.com)**
